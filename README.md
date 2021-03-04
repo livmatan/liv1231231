@@ -27,6 +27,7 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Kali-Linux-brightgreen)
+![Nmap](http://img.shields.io/badge/?style=flat-square&logo=nmap&logoColor=ffffff)
 
 <br/>
 
