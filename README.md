@@ -25,15 +25,17 @@
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-orange)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Kali-Linux-brightgreen)
+![Bash](https://img.shields.io/badge/-Bash-red)
 ![CCNA](https://img.shields.io/badge/-CCNA-yellow)
 ![RF](https://img.shields.io/badge/-RF-blue)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Kali-Linux-brightgreen)
-![Nmap](https://img.shields.io/badge/Nmap-Tool-red)
+![Nmap](https://img.shields.io/badge/-Nmap-yellowgreen)
 ![DirBuster](https://img.shields.io/badge/Dir-Buster-lightgrey)
-![LinPeas](https://img.shields.io/badge/Lin-Peas-blue)
-![Bash](https://img.shields.io/badge/-Bash-red)
+![LinPeas](https://img.shields.io/badge/-LinPeas-green)
+![Burpsuite](https://img.shields.io/badge/-Burpsuite-orange)
+
 
 <br/>
 
