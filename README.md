@@ -24,10 +24,16 @@
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/-SQL-orange)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![CCNA](https://img.shields.io/badge/-CCNA-yellow)
+![RF](https://img.shields.io/badge/-RF-blue)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Kali-Linux-brightgreen)
-![Nmap](http://img.shields.io/badge/?style=flat-square&logo=nmap&logoColor=ffffff)
+![Nmap](https://img.shields.io/badge/Nmap-Tool-red)
+![DirBuster](https://img.shields.io/badge/Dir-Buster-lightgrey)
+![LinPeas](https://img.shields.io/badge/Lin-Peas-blue)
+![Bash](https://img.shields.io/badge/-Bash-red)
 
 <br/>
 
